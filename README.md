@@ -1,10 +1,6 @@
 <h1 align="center">Merhaba, ben Kürşat ABAYLI 👋</h1>
 <h3 align="center">Backend ve bulut tabanlı sistemler geliştiren bir .NET Yazılım Geliştiricisiyim.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kursatabayli&label=Profil_Görüntülenme&color=512BD4&style=flat" alt="kursatabayli" /> 
-</p>
-
 ---
 
 ### Şu Anda Odaklandıklarım
@@ -56,7 +52,7 @@
   </a>
 </p>
 
-<---
+<!--
 
 ### GitHub İstatistiklerim
 
@@ -68,7 +64,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursatabayli&theme=radical" alt="streak-stats" />
 </p>
 
---->
+--!>
 ---
 
 ### Bana Ulaşın
