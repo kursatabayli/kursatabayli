@@ -55,7 +55,7 @@ var developer = new Developer()
 ### Get in Touch
 
 <div align="left">
-  <a href="mailto:kursatabayli.com" target="_blank">
+  <a href="mailto:kursatabayli@outlook.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/outlook.svg" alt="outlook" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/kursatabayli" target="_blank">
