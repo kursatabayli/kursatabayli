@@ -1,77 +1,62 @@
-<h1 align="center">Merhaba, ben Kürşat ABAYLI 👋</h1>
-<h3 align="center">Backend ve bulut tabanlı sistemler geliştiren bir .NET Yazılım Geliştiricisiyim.</h3>
+```csharp
+var developer = new Developer()
+{
+    Name = "Kürşat ABAYLI",
+    Title = ".NET Backend Developer",
+    Focus = new[] { "Microservices", "DDD", "Unit Testing" },
+    Passion = "Building secure and scalable systems"
+};
+```
 
 ---
 
-### Şu Anda Odaklandıklarım
+### What I'm Currently Focused On
 
-- `🚀` Güvenlik ve gizlilik odaklı, .NET 9 tabanlı **[SecureVault](https://github.com/kursatabayli/SecureVault)** isimli kişisel projemi geliştirmeye devam ediyorum.
+- `🚀` I'm currently developing my personal project, **[SecureVault](https://github.com/kursatabayli/SecureVault)** , a privacy and security-focused password manager built on .NET 9.
 
-- `🧠` **Mikroservis mimarilerini** ve bu mimarilerin temelini oluşturan **Domain-Driven Design (DDD)** prensiplerini derinlemesine öğreniyorum.
+- `🧠` I'm diving deep into **Microservice Architectures** and the underlying principles of **Domain-Driven Design (DDD)**.
 
-- `🧪` Kod kalitesini ve sürdürülebilirliği artırmak için projelerimde **kapsamlı birim testleri (unit tests)** yazma pratiği yapıyorum.
+- `🧪` I'm actively practicing comprehensive **unit testing** in my projects to improve code quality and maintainability.
 
-- `💻` Ana odağım her zaman **backend sistemler** olsa da, **.NET MAUI** gibi teknolojilerle full-stack yeteneklerimi de aktif olarak geliştiriyorum.
+- `💻` While my primary focus is on **backend systems**, I also actively develop my full-stack skills with technologies like **.NET MAUI**.
 
 ---
 
-### Kullandığım Teknolojiler ve Araçlar
+### My Tech Stack & Tools
 
-<p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/> 
-  </a>
-  <a href="https://mudblazor.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MudBlazor-594AE2?style=for-the-badge&logo=blazor&logoColor=white" alt="mudblazor"/> 
-  </a>
-  
-  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sqlserver"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> 
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"/> 
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/> 
-  </a>
-</p>
+<div align="left">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /></a>
+  <img width="12" />
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  /></a>
+  <img width="12" />
+  <a href="https://dotnet.microsoft.com/apps/maui" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="40" alt="maui logo" /></a>
+  <img width="12" />
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor logo" /></a>
+  <img width="12" />
+  <a href="https://mudblazor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MudBlazor/MudBlazor/dev/content/MudBlazor.svg" height="40" alt="mudblazor logo"  /></a>
+  <img width="12" />
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  /></a>
+  <img width="12" />
+  <a href="https://www.microsoft.com/sql-server" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver logo"  /></a>
+  <img width="12" />
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  /></a>
+  <img width="12" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  /></a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  /></a>
+  <img width="12" />
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /></a>
+  <img width="12" />
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /></a>
+</div>
 
-<!--
-
-### GitHub İstatistiklerim
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kursatabayli&show_icons=true&locale=tr&theme=radical&count_private=true" alt="github-stats" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kursatabayli&show_icons=true&locale=tr&layout=compact&theme=radical" alt="top-langs" />
-  <br/><br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kursatabayli&theme=radical" alt="streak-stats" />
-</p>
-
---!>
 ---
 
-### Bana Ulaşın
+### Get in Touch
 
-<p align="left">
-<a href="mailto:kursatabayli@outlook.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/microsoft-outlook.svg" alt="outlook" height="30" width="40" />
+<div align="left">
+  <a href="mailto:kursatabayli.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/outlook.svg" alt="outlook" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/kursatabayli" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -79,4 +64,4 @@
   <a href="https://instagram.com/kursat.abayli" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-</p>
+</div>
