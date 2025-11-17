@@ -1,22 +1,10 @@
-```csharp
-var developer = new Developer()
-{
-    Name = "Kürşat ABAYLI",
-    Title = ".NET Backend Developer",
-    Focus = new[] { "Microservices", "DDD", "Unit Testing" },
-    Passion = "Building secure and scalable systems"
-};
-```
-
----
-
 ### What I'm Currently Focused On
 
-- `🚀` I'm currently developing my personal project, **[SecureVault](https://github.com/kursatabayli/SecureVault)** , a privacy and security-focused password manager built on .NET 9.
+- `🚀` Currently developing my personal project, **[SecureVault](https://github.com/kursatabayli/SecureVault)** , a privacy and security-focused password manager built on .NET 9.
 
-- `🧠` I'm diving deep into **Microservice Architectures** and the underlying principles of **Domain-Driven Design (DDD)**.
+- `🧠` Diving deep into **Microservice Architectures** and the underlying principles of **Domain-Driven Design (DDD)**.
 
-- `🧪` I'm actively practicing comprehensive **unit testing** in my projects to improve code quality and maintainability.
+- `🧪` Actively practicing comprehensive **unit testing** in my projects to improve code quality and maintainability.
 
 - `💻` While my primary focus is on **backend systems**, I also actively develop my full-stack skills with technologies like **.NET MAUI**.
 
