@@ -8,15 +8,22 @@
 <div align="left">
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" /></a>
   <img width="12" />
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" height="40" alt="dotnet" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet" /></a>
   <img width="12" />
   
+  <a href="https://learn.microsoft.com/en-us/dotnet/orleans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dotnet/orleans/main/assets/logo/Orleans-colored.svg" height="40" alt="orleans" /></a>
+  <img width="12" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/aspire/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dotnet/aspire/main/docs/media/icon.png" height="40" alt="aspire" /></a>
+  <img width="12" />
+
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor" /></a>
   <img width="12" />
   <a href="https://mudblazor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MudBlazor/MudBlazor/dev/content/MudBlazor.svg" height="40" alt="mudblazor" /></a>
   <img width="12" />
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /></a>
+  <img width="12" />
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" /></a>
   <img width="12" />
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /></a>
   <img width="12" />
