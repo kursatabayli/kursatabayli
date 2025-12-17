@@ -6,14 +6,15 @@
 ### My Tech Stack & Tools
 
 <div align="left">
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" /></a>
   <img width="12" />
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" height="40" alt="dotnet" /></a>
   <img width="12" />
   
-  <a href="https://learn.microsoft.com/en-us/dotnet/orleans/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dotnet/orleans/main/assets/logo/Orleans-colored.svg" height="40" alt="orleans" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/orleans/" target="_blank" rel="noreferrer"><img src="https://github.com/dotnet/orleans/blob/main/assets/logo_128.png" height="40" alt="orleans" /></a>
   <img width="12" />
-  <a href="https://learn.microsoft.com/en-us/dotnet/aspire/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dotnet/aspire/main/docs/media/icon.png" height="40" alt="aspire" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/aspire/" target="_blank" rel="noreferrer"><img src="https://aspire.dev/_astro/aspire-logo-32.DGHSFRgf.svg" height="40" alt="aspire" /></a>
   <img width="12" />
 
   <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="40" alt="blazor" /></a>
