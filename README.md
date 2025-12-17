@@ -1,12 +1,5 @@
-### What I'm Currently Focused On
-
-- `🚀` Currently developing my personal project, **[SecureVault](https://github.com/kursatabayli/SecureVault)** , a privacy and security-focused password manager built on .NET 9.
-
-- `🧠` Diving deep into **Microservice Architectures** and the underlying principles of **Domain-Driven Design (DDD)**.
-
-- `🧪` Actively practicing comprehensive **unit testing** in my projects to improve code quality and maintainability.
-
-- `💻` While my primary focus is on **backend systems**, I also actively develop my full-stack skills with technologies like **.NET MAUI**.
+### If there is a problem, there is something to fix.
+### If there is a question, there is something to learn.
 
 ---
 
