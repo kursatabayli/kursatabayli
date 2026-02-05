@@ -36,6 +36,4 @@
 
 <div align="left">
   <a href="mailto:kursatabayli@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/outlook.svg" alt="outlook" height="30" width="40" /></a>
-  &nbsp;
-  <a href="https://instagram.com/kursat.abayli" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
 </div>
