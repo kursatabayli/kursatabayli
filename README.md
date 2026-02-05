@@ -1,5 +1,4 @@
-### If there is a problem, there is something to fix.
-### If there is a question, there is something to learn.
+### I love creating things
 
 ---
 
