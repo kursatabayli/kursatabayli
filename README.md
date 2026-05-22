@@ -32,8 +32,8 @@
 
 ---
 
-### Get in Touch
+### Say Hi!
 
 <div align="left">
-  <a href="mailto:kursatabayli@outlook.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/outlook.svg" alt="outlook" height="30" width="40" /></a>
+  <a href="mailto:kursatabayli@outlook.com" target="_blank"><img align="center" src="https://api.iconify.design/radix-icons:envelope-closed.svg?width=32&height=32&color=%23888888" alt="outlook" height="30" width="40" /></a>
 </div>
